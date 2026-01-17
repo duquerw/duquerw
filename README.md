@@ -49,18 +49,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de duquerw](https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true)
-
-<br>
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=duquerw&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <div align="center">
   <img src="https://github.com/duquerw/duquerw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
