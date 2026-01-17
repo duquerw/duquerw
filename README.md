@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div class="tenor-gif-embed" data-postid="14300790771558079688" data-share-method="host" data-aspect-ratio="2.49" data-width="100%"><a href="https://tenor.com/view/banner-gif-14300790771558079688">Banner GIF</a>from <a href="https://tenor.com/search/banner-gifs">Banner GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **duquerw/duquerw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
