@@ -53,11 +53,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -65,14 +65,14 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=duquerw&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <img src="https://github.com/duquerw/duquerw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
