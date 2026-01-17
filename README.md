@@ -52,13 +52,9 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="langs" />
 </div>
 
 <br>
