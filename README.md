@@ -51,19 +51,13 @@
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="langs" />
-</div>
+![Estadísticas de duquerw](https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=duquerw&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=duquerw&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
-</div>
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=duquerw&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
