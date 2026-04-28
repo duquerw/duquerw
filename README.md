@@ -1,21 +1,14 @@
 <div align="center">
-
   <img src="https://media1.tenor.com/m/xnadcBnnXMgAAAAd/banner.gif" width="100%" alt="Banner" />
 
   <h1 align="center">Hola, soy <a href="https://github.com/duquerw">DUQUERW</a> 👨‍💻</h1>
   
-  <h3 align="center">🚀 Aspiring Diplomat & Linux Enthusiast</h3>
+  <h3 align="center">🌎 International Relations Student | Python Developer | Linux Enthusiast</h3>
 
   <p align="center">
-    <a href="https://github.com/duquerw?tab=repositories">
-      <img src="https://img.shields.io/badge/Main_OS-MX_Linux-blue?style=for-the-badge&logo=linux&logoColor=white" />
-    </a>
-    <a href="https://github.com/duquerw">
-      <img src="https://img.shields.io/badge/Focus-International_Relations-red?style=for-the-badge&logo=ubc&logoColor=white" />
-    </a>
-    <a href="https://github.com/duquerw">
-      <img src="https://img.shields.io/badge/Crypto-BTC_%26_ETH-orange?style=for-the-badge&logo=bitcoin&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/Main_OS-Kubuntu-blue?style=for-the-badge&logo=kde&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-International_Relations-red?style=for-the-badge&logo=un-pilar&logoColor=white" />
+    <img src="https://img.shields.io/badge/English-Superintensive-green?style=for-the-badge&logo=cambridge&logoColor=white" />
   </p>
 </div>
 
@@ -23,29 +16,39 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 **Actualmente trabajando en:**
-  - Una plataforma web para **cursos educativos gratuitos** y de alta calidad en Perú.
-  - Desarrollo web para el resort turístico **Bello Horizonte Inn** (Tarapoto).
-  
-- 🌱 **Aprendiendo:**
-  - Inglés avanzado para **TOEFL (Meta: Mayo 2026)**.
-  - Preparación para estudiar **Relaciones Internacionales** (Meta: UBC).
+- 🔭 **Proyectos Actuales:**
+  - 🤖 **Asistente Virtual Privado:** Desarrollando un asistente local con acceso a datos personales (enfocado en privacidad).
+  - 📚 **Lector PDF & OCR:** Herramienta funcional en Python para gestión de documentos académicos.
+  - 🌐 **Plataforma Educativa:** Prototipo funcional inspirado en sistemas de aprendizaje masivo.
 
-- 🐧 **Herramientas:** Fanático de las distros ligeras (**MX Linux** is the way).
+- 🌱 **Aprendizaje Continuo:**
+  - Perfeccionando **Inglés** (Meta: TOEFL 2026).
+  - Profundizando en **Automatización con Python** y despliegue de modelos locales (Ollama/Qwen).
 
-- ⚡ **Dato curioso:** Lidero un clan en Free Fire y estoy en camino a ser Black en Cineplanet este año.
+- 🐧 **Entorno:** Usuario de **Kubuntu + KDE Plasma** (buscando el balance perfecto entre rendimiento y estética).
+
+- ⚡ **Dato curioso:** Fanático de los juegos de ritmo (**osu!**) y los retos de optimización de hardware.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-317ABC?style=for-the-badge&logo=kde&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duquerw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duquerw&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -55,5 +58,5 @@
 </div>
 
 <div align="center">
- <i>"Nunca pude terminar algo que me propuse... hasta ahora." — 2026 is the year.</i>
+  <i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día." — 2026 en marcha.</i>
 </div>
