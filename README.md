@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/xnadcBnnXMgAAAAd/banner.gif" width="100%" alt="Banner" />
 
-  <h1 align="center">Hola, soy <a href="https://github.com/duquerw">Tu Nombre Apellido</a> 👨‍💻</h1>
+  <h1 align="center">Hola, soy <a href="https://github.com/duquerw"> DUQUE RODRIGUEZ </a> 👨‍💻</h1>
   <h2 align="center">(DUQUERW)</h2>
   
   <h3 align="center">🌎 International Relations Student | Python Developer | Linux Enthusiast</h3>
